@@ -1,1 +1,1 @@
-# Dpi
+#adb shell dumpsys package tribalfs.pixels | grep WRITE_SECURE_SETTINGS
