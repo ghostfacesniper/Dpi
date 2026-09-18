@@ -1,1 +1,1 @@
-#adb shell dumpsys package tribalfs.pixels | grep WRITE_SECURE_SETTINGS
+ - adb shell dumpsys package tribalfs.pixels | grep WRITE_SECURE_SETTINGS
